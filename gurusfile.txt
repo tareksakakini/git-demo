@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-my addition1
-=======
-my addition2
->>>>>>> Stashed changes

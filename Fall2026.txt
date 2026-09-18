@@ -1,6 +1,0 @@
-hello Fall2026
-<<<<<<< HEAD
-Hello Spring2026
-=======
-hello Spring2026
->>>>>>> origin/main
